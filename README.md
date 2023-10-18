@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ogiogidayo&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
-!(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogiogidayo&theme=dracula)
+![trophy](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogiogidayo&theme=dracula)
