@@ -17,17 +17,12 @@ Here are some ideas to get you started:
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<ogiogidayo>/<repository>/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<ogiogiday>/<repository>/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<ogiogiday>/<repository>/output-3d-contrib/day.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<ogiogidayo>/<repository>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<ogiogidayo>/<repository>/output-3d-contrib/day.svg" />
 	</picture>
 </p>
 
 <p align="left"> 
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<ogiogidayo>/<repository>/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<ogiogiday>/<repository>/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<ogiogiday>/<repository>/output-3d-contrib/day.svg" />
-	</picture>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogiogidayo&layout=compact&count_private=true&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ogiogidayo&count_private=true&show_icons=true&show_icons=true" />
 </p>
