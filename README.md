@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ogiogidayo&count_private=true&show_icons=true&show_icons=true" />
 </p>
 
-<p align="center" >
+<p align="left" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/night.svg" width="500" />
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" width="500" />
