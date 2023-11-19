@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/night.svg" width="300" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" width="300" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
 	</picture>
-</p>
+</p>　
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogiogidayo&layout=compact&count_private=true&show_icons=true" />
