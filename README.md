@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   </picture>
 </p>
 
-
 <p align="left" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-view.svg" width="700" />
