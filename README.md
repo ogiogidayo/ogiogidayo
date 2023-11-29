@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <p align="left"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://git-hub-readme-stats-clone-wp53.vercel.app/api/top-langs/?username=ogiogidayo&count_private=true&layout=compact&theme=tokyonight" />
