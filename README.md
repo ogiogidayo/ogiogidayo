@@ -1,4 +1,4 @@
-### Hi there 👋　（アカウント変えました）
+### Hi there 👋　（Previous account merged.）
 
 <!--
 **ogiogidayo/ogiogidayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
