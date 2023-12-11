@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://git-hub-readme-stats-clone-wp53.vercel.app/api/top-langs/?username=ogiogidayo&count_private=true&layout=compact&theme=tokyonight" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://git-hub-readme-stats-clone-wp53.vercel.app/api/top-langs/?username=ogiogidayo&count_private=true&layout=compact&theme=tokyonight&exclude_repo=gitHub-readme-stats-clone" />
     <img alt="Top Langs" height="150px" src="https://git-hub-readme-stats-clone-wp53.vercel.app/api/top-langs/?username=ogiogidayo&count_private=true&layout=compact&show_icons=true" />
   </picture>
   <picture>
