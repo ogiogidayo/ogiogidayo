@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://git-hub-readme-stats-clone-wp53.vercel.app/api/top-langs/?username=ogiogidayo&count_private=true&layout=compact&theme=tokyonight&hide=Tex&exclude_repo=gitHub-readme-stats-clone" />
-    <img alt="Top Langs" height="150px" src="https://git-hub-readme-stats-clone-wp53.vercel.app/api/top-langs/?username=ogiogidayo&include_all_commits=ture&count_private=true&layout=compact&show_icons=true&show_icons=true&hide=Tex&exclude_repo=gitHub-readme-stats-clone" />
-  </picture>
+<p align="left" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="metrics.plugin.languages.details.svg" width="400" />
+	  <source media="(prefers-color-scheme: light)" srcset="metrics.plugin.languages.details.svg" width="400" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
+	</picture>
+</p>　
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://git-hub-readme-stats-clone-wp53.vercel.app/api?username=ogiogidayo&count_private=true&theme=tokyonight&show_icons=true&rank_icon=github" />
     <img alt="github stats" height="150px" src="https://git-hub-readme-stats-clone-wp53.vercel.app/api?username=ogiogidayo&count_private=true&show_icons=true&rank_icon=github" />
