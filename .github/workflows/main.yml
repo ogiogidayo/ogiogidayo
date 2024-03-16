@@ -19,7 +19,7 @@ jobs:
     - name: Most used (with details)
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.languages.details.svg
+        filename: output/metrics.plugin.languages.details.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         repositories_skipped: chatbot-ui, gitHub-readme-stats-clone
@@ -29,3 +29,15 @@ jobs:
           gnuplot
         plugin_languages_details: bytes-size, percentage
         plugin_languages_limit: 8
+    - name: repo
+      uses: lowlighter/metrics@latest
+      with:
+        template: repository
+        filename: output/metrics.repository.svg
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        user: lowlighter
+        repo: metrics
+        plugin_lines: yes
+        plugin_followup: yes
+        plugin_projects: yes
+        plugin_projects_repositories: lowlighter/metrics/projects/1
