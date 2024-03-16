@@ -41,3 +41,20 @@ jobs:
         plugin_followup: yes
         plugin_projects: yes
         plugin_projects_repositories: lowlighter/metrics/projects/1
+        
+  build:
+      runs-on: ubuntu-latest
+      name: generate-github-profile-3d-contrib
+      steps:
+        - uses: actions/checkout@v3
+        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+          env:
+            GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+            USERNAME: ${{ github.repository_owner }}
+        - name: Commit & Push
+          run: |
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -A .
+            git commit -m "generated"
+            git push
