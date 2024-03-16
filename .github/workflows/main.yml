@@ -36,7 +36,6 @@ jobs:
         filename: output/metrics.repository.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         user: ogiogidayo
-        repo: metrics
         plugin_lines: yes
         plugin_followup: yes
         plugin_projects: yes
