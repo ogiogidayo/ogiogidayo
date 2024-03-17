@@ -38,10 +38,18 @@ jobs:
         plugin_topics: yes
         plugin_topics_limit: 20
         plugin_topics_mode: icons
+    - name: Indepth analysis
+      uses: lowlighter/metrics@latest
+      with:
+        filename: output/metrics.plugin.followup.indepth.svg
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        base: ""
+        plugin_followup: yes
+        plugin_followup_indepth: yes
     - name: Compact display
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.achievements.compact.svg
+        filename: output/metrics.plugin.achievements.compact.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         plugin_achievements: yes
