@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <p align="left" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="metrics.plugin.languages.details.svg" width="400" />
-	  <source media="(prefers-color-scheme: light)" srcset="metrics.plugin.languages.details.svg" width="400" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.languages.details.svg" width="400" />
+	  <source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.languages.details.svg" width="400" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
 	</picture>
 </p>　
