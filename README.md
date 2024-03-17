@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.topics.icons.svg" width="400" />
-  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.topics.icons.svg" width="400" />
- <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,r,fortran,aws,mysql,git,github,docker,latex,dynamodb,fastapi,flask,linux,md,matlab,vim,emacs,vscode,pycharm,idea,clion,ubuntu,discord" /> <br /><br />
 </picture>
 </p>　
