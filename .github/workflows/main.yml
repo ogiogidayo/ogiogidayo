@@ -25,7 +25,7 @@ jobs:
     - name: Most used (with details)
       uses: lowlighter/metrics@latest
       with:
-        filename: output/metrics.plugin.languages.details.svg
+        filename: output/details.svg
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         repositories_skipped: chatbot-ui, gitHub-readme-stats-clone
@@ -37,6 +37,7 @@ jobs:
         plugin_languages_limit: 8
         plugin_followup: yes
         plugin_followup_indepth: yes
+        
     - name: Icons
       uses: lowlighter/metrics@latest
       with:
@@ -46,14 +47,7 @@ jobs:
         plugin_topics: yes
         plugin_topics_limit: 20
         plugin_topics_mode: icons
-    # - name: Indepth analysis
-    #   uses: lowlighter/metrics@latest
-    #   with:
-    #     filename: output/metrics.plugin.followup.indepth.svg
-    #     token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-    #     base: ""
-    #     plugin_followup: yes
-    #     plugin_followup_indepth: yes
+
     - name: Compact display
       uses: lowlighter/metrics@latest
       with:
