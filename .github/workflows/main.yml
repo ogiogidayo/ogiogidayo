@@ -33,7 +33,16 @@ jobs:
       uses: lowlighter/metrics@latest
       with:
         filename: output/metrics.plugin.followup.indepth.svg
-        token: ${{ secrets.PERSONAL_ACCESS_TOKE }}
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         base: ""
         plugin_followup: yes
         plugin_followup_indepth: yes
+    - name: Icons
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.topics.icons.svg
+        token: NOT_NEEDED
+        base: ""
+        plugin_topics: yes
+        plugin_topics_limit: 0
+        plugin_topics_mode: icons
