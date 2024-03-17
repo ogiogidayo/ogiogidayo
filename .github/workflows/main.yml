@@ -16,6 +16,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+    - name: Default metrics
+      uses: lowlighter/metrics@latest
+      with:
+        filename: output/metrics.base.svg
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        base: header, activity, community, repositories, metadata
     - name: Most used (with details)
       uses: lowlighter/metrics@latest
       with:
