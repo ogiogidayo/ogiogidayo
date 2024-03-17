@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.languages.details.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.languages.details.svg" width="400" />
+        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
 	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
   </picture>
   <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.followup.indepth.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/metrics.plugin.followup.indepth.svg" width="400" />
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
 	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
   </picture>
 </p>
@@ -36,14 +36,16 @@ Here are some ideas to get you started:
 	</picture>
 </p>　
 
-<!-- トロフィーカード -->
+<p align="left"> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ogiogidayo&theme=tokyonight&column=8" alt="github trophy" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ogiogidayo&column=7" alt="github trophy" />
+  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.topics.icons.svg" width="400" />
+  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.topics.icons.svg" width="400" />
+ <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
 </picture>
 
-<!-- プロファイルサマリーカード -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogiogidayo&theme=dark" alt="profile summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ogiogidayo" alt="profile summary" />
+  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+ <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
 </picture>
+</p>　
