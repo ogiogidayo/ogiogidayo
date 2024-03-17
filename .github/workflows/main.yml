@@ -29,13 +29,11 @@ jobs:
           gnuplot
         plugin_languages_details: bytes-size, percentage
         plugin_languages_limit: 8
-    # - name: repo
-    #   uses: lowlighter/metrics@latest
-    #   with:
-    #     template: repository
-    #     filename: output/metrics.repository.svg
-    #     token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-    #     user: ogiogidayo
-    #     plugin_lines: yes
-    #     plugin_followup: yes
-    #     plugin_projects: yes
+    - name: Indepth analysis
+      uses: lowlighter/metrics@latest
+      with:
+        filename: output/metrics.plugin.followup.indepth.svg
+        token: ${{ secrets.PERSONAL_ACCESS_TOKE }}
+        base: ""
+        plugin_followup: yes
+        plugin_followup_indepth: yes
