@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ogiogidayo&color=blue)
 ### Hi there 👋
 
 <!--
