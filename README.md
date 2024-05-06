@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ogiogidayo&color=blue)
 ### Hi there 👋
+### こんちくわ〜
 
 <!--
 **ogiogidayo/ogiogidayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
