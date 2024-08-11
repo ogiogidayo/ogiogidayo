@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 </picture>
 
 <picture>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,r,fortran,aws,terraform,mysql,graphql,git,github,docker,latex,dynamodb,fastapi,flask,linux,matlab,md,vim,emacs,vscode,pycharm,idea,clion,ubuntu,discord" /> <br /><br />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,fortran,aws,terraform,docker,k8s,mysql,graphql,r,git,github,latex,dynamodb,fastapi,flask,linux,postman,matlab,md,vim,emacs,vscode,pycharm,idea,clion,ubuntu,discord" /> <br /><br />
 </picture>
 </p>　
