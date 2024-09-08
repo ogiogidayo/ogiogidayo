@@ -43,9 +43,15 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
   <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
-</picture>
+<h2>Language</h2>
+<img src="https://skillicons.dev/icons?i=go,python,c,cpp,java,fortran,typescript,javascript,html,css,r" alt="プログラミング言語" />
 
-<picture>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,fortran,aws,terraform,docker,k8s,mysql,graphql,r,git,github,latex,dynamodb,fastapi,flask,linux,postman,matlab,md,vim,emacs,vscode,pycharm,idea,clion,ubuntu,discord" /> <br /><br />
-</picture>
-</p>　
+<h2>Cloud&Infra</h2>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,k8s,mysql,graphql,dynamodb,mongodb,elasticsearch,grafana" alt="Cloud" />
+
+<h2>Others</h2>
+<img src="https://skillicons.dev/icons?i=postman,matlab,md,fastapi,flask,django,linux,ubuntu" alt="Others" />
+
+<h2>Developer Tools</h2>
+<img src="https://skillicons.dev/icons?i=git,github,latex,vim,emacs,vscode,pycharm,idea,clion" alt=">Developer Tools" />
+
