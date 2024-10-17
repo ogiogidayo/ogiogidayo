@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="119.40909799395767" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="119.40909799395767" y="0" width="109.79077333280273" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="229.1998713267604" y="0" width="86.28422857408162" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="315.484099900842" y="0" width="80.58798364390675" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="396.07208354474875" y="0" width="26.8031664229171" height="8" fill="#e16737"/>
-                    <rect mask="url(#languages-bar)" x="422.87524996766587" y="0" width="25.27613343547601" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="448.15138340314184" y="0" width="6.85563061494533" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="455.0070140180872" y="0" width="4.9929859819127875" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="117.1686109890825" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="117.1686109890825" y="0" width="107.73075608922731" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="224.8993670783098" y="0" width="84.66526740534648" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="309.56463448365633" y="0" width="79.0759017913799" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="388.64053627503625" y="0" width="26.300255446543336" height="8" fill="#e16737"/>
+                    <rect mask="url(#languages-bar)" x="414.9407917215796" y="0" width="24.80187435934983" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="439.74266608092944" y="0" width="13.53033631083126" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="453.2730023917607" y="0" width="6.726997608239372" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                             </div>
                             <small>
                                 <div>78.2 kB</div>
-                                <div>25.96%</div>
+                                <div>25.47%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -234,7 +234,7 @@
                             </div>
                             <small>
                                 <div>56.5 kB</div>
-                                <div>18.76%</div>
+                                <div>18.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -246,19 +246,19 @@
                             </div>
                             <small>
                                 <div>17.5 kB</div>
-                                <div>5.83%</div>
+                                <div>5.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>4.49 kB</div>
-                                <div>1.49%</div>
+                                <div>9.04 kB</div>
+                                <div>2.94%</div>
                             </small>
                         </div>
                     </section>
@@ -272,7 +272,7 @@
                             </div>
                             <small>
                                 <div>71.9 kB</div>
-                                <div>23.87%</div>
+                                <div>23.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                             </div>
                             <small>
                                 <div>52.8 kB</div>
-                                <div>17.52%</div>
+                                <div>17.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -296,19 +296,19 @@
                             </div>
                             <small>
                                 <div>16.5 kB</div>
-                                <div>5.49%</div>
+                                <div>5.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Makefile
+                                C++
                             </div>
                             <small>
-                                <div>3.27 kB</div>
-                                <div>1.09%</div>
+                                <div>4.49 kB</div>
+                                <div>1.46%</div>
                             </small>
                         </div>
                     </section>
