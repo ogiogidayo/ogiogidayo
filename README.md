@@ -43,14 +43,15 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
 <h2>Language</h2>
-<img src="https://skillicons.dev/icons?i=go,python,java,javascript,typescript,c,cpp,r,fortran,html,css" alt="プログラミング言語" />
+<img src="https://skillicons.dev/icons?i=go,python,java,javascript,typescript,c,cpp,r,fortran" alt="プログラミング言語" />
 
 <h2>Cloud&Infra</h2>
-<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,mysql,graphql,dynamodb,mongodb,elasticsearch,grafana" alt="Cloud" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,mysql,dynamodb,mongodb,elasticsearch" alt="Cloud" />
 
 <h2>Others</h2>
-<img src="https://skillicons.dev/icons?i=postman,matlab,md,fastapi,flask,django,linux,ubuntu" alt="Others" />
+<img src="https://skillicons.dev/icons?i=postman,matlab,md,fastapi,django,linux,ubuntu" alt="Others" />
 
+<!--
 <h2>Developer Tools</h2>
 <img src="https://skillicons.dev/icons?i=git,github,latex,vim,emacs,vscode,pycharm,idea,clion" alt=">Developer Tools" />
-
+-->
