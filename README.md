@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
 <h2>Language</h2>
-<img src="https://skillicons.dev/icons?i=go,python,java,javascript,typescript,c,cpp,r,fortran" alt="プログラミング言語" />
+<img src="https://skillicons.dev/icons?i=go,python,java,typescript,c,cpp,r,fortran" alt="プログラミング言語" />
 
 <h2>Cloud&Infra</h2>
 <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,mysql,dynamodb,mongodb,elasticsearch" alt="Cloud" />
