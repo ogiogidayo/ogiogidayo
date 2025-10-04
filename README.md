@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ogiogidayo/ogiogidayo/output-3d-contrib/day.svg" />
 	</picture>
 </p>　
-
+<!--
 <p align="left"> 
 <picture>
   <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <h2>Others</h2>
 <img src="https://skillicons.dev/icons?i=postman,matlab,md,fastapi,django,linux,ubuntu" alt="Others" />
 
-<!--
+
 <h2>Developer Tools</h2>
 <img src="https://skillicons.dev/icons?i=git,github,latex,vim,emacs,vscode,pycharm,idea,clion" alt=">Developer Tools" />
 -->
